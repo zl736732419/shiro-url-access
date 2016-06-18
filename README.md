@@ -1,2 +1,1 @@
-# shiro-url-access
-init shiro-url-access project
+# 动态url权限统一配置
